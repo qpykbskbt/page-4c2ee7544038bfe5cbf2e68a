@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "eef9d75f7db17d7820df6937",
+  "owner": "qpykbskbt",
+  "repo": "page-4c2ee7544038bfe5cbf2e68a",
+  "title": "筋斗云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c2ee7544038bfe5cbf2e68a",
+      "a": "筋斗云",
+      "b": "2027官方最新地址导航",
+      "entity": "筋斗云",
+      "brand": "筋斗云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3a29cc31e39e2017d08f0999928209b151eb7cb52841c04a9c6169e1cffc7d53",
+      "content": {
+        "primary_entity": "筋斗云",
+        "keyword1": "筋斗云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按流量与设备数选定档位，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，筋斗云提供基础版、旗舰版与团队版三档订阅，月流量从100GB到1000GB，可同时在线设备从3台到20台，按年付更省。客户端覆盖主流系统，订阅导入后即可切换节点。",
+          "AI_FEATURES_INTRO": "根据流量、设备数与节点需求选择订阅档位。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台。",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版350元，团队版850元。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_GUIDE_INTRO": "选择套餐、查看设备适配要求、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "筋斗云是面向海外访问场景的加速器品牌，提供基础版、旗舰版、团队版三档订阅，分别对应不同流量、设备数量与节点权益。按年付可节省费用，旗舰版与团队版提供专线或高带宽节点，适合游戏、流媒体与多设备用户。",
+          "AI_HERO_SUBTITLE": "三档套餐 按需选配",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付更省费用",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏，团队版适合多设备共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与设备数量，在基础版、旗舰版、团队版中选定。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否匹配，旗舰版支持5台，团队版支持20台。",
+          "AI_STEP_TEXT_3": "按所用客户端的订阅导入说明完成配置，然后选择节点使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "筋斗云 订阅套餐对比",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月100GB流量、3台设备；旗舰版每月300GB、5台设备，含IPLC专线；团队版每月1000GB、20台设备，适合多人团队。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅地址即可，多数客户端支持扫码或粘贴链接两种方式。具体配置步骤以各客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "价格随套餐不同，基础版¥15/月，旗舰版¥35/月，团队版¥85/月。按年付更优惠，分别为¥150/年、¥350/年、¥850/年。",
+          "AI_FAQ_ANSWER_4": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。如需更多设备可升级套餐或选择团队版。",
+          "AI_FAQ_ANSWER_5": "通常取决于本地网络环境和所选线路。IPLC专线节点在游戏与低延迟场景下表现更稳定，可按需选择对应套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "如何将订阅导入到客户端？",
+          "AI_FAQ_QUESTION_3": "套餐价格和计费方式是怎样的？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_5": "连接速度和线路稳定性如何？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cqjbb.cn",
+    "host": "cqjbb.cn"
+  },
+  "file_hashes": {
+    "index.html": "797d1923876a6f860a033416dfbdf6948b501a99f598289a66d8bf374b44c18b",
+    "sitemap.xml": "cc2ec520040ebfef2f312162837860342534b5a5792adc2a82a09e7588f080ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3a4ce6717a4a465c171f355e7d39401e456fe56b903f77932716af9aec4fb948",
+    "robots.txt": "ca4a3aafabcfa25a94bbde81f206fae49a2302badf802128dc205ab035ca9667",
+    "ee7cf2146139f343cf56c9bd0a2a5d23.txt": "253abaaa8c22eac8d46b247544e61a4ecfa2d6cb2da2072a8aba93352683480f"
+  },
+  "revision": "e533e4d9d3a016d5e99854d17ef360fa37fba318b376e01e84e39af1d88d7dcf"
+}
